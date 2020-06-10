@@ -1,0 +1,25 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 3 Lakeview Court
+
+## Media
+
+### Title
+panorama_8C66CF0B_9C6F_7FCB_41E2_F5835C2A53A3.label = Master Bedroom
+panorama_9395F31D_9C6E_E7CF_41D3_227049B890A6.label = Kitchen
+panorama_96594366_9C69_667D_41CB_AA4079301E3B.label = Upstairs Bathroom
+panorama_9659727D_9C69_664F_41D2_7999BF2571B7.label = Balcony
+panorama_965A8A34_9C69_21DD_41BE_33DF49EFFB87.label = Half Bathroom
+panorama_965A8BA3_9C69_66FB_41DA_313B3843D390.label = Built-in Vanity & Walk-in Clost
+panorama_965AAB2E_9C69_67CD_41E0_8A8A9AC81BB0.label = Upstairs Landing
+panorama_965AC959_9C69_2257_41DD_E87740B99336.label = Dining Room
+panorama_965AD503_9C69_23BB_41DB_560D9F1A05B8.label = Second Bedroom
+panorama_965AEC7E_9C69_224D_41E2_3887ED8B2CE1.label = Delete
+panorama_965BB168_9C69_2275_41E3_7E0D1AA535BD.label = Living Room
+panorama_9766A966_9C69_E27D_41DA_503ECC6A72FF.label = Entrance
