@@ -20,6 +20,5 @@ panorama_965A8BA3_9C69_66FB_41DA_313B3843D390.label = Built-in Vanity & Walk-in 
 panorama_965AAB2E_9C69_67CD_41E0_8A8A9AC81BB0.label = Upstairs Landing
 panorama_965AC959_9C69_2257_41DD_E87740B99336.label = Dining Room
 panorama_965AD503_9C69_23BB_41DB_560D9F1A05B8.label = Second Bedroom
-panorama_965AEC7E_9C69_224D_41E2_3887ED8B2CE1.label = Delete
 panorama_965BB168_9C69_2275_41E3_7E0D1AA535BD.label = Living Room
 panorama_9766A966_9C69_E27D_41DA_503ECC6A72FF.label = Entrance
